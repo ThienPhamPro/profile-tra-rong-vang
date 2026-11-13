@@ -1,0 +1,8 @@
+{
+  "name": "PROFILE TRÀ RỒNG VÀNG",
+  "description": "Hồ sơ năng lực cá nhân dạng ngang mang phong cách luxury hiện đại, tối giản và tinh tế.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
